@@ -15,3 +15,7 @@ const c = ()=>{
 const d = ()=>{
     confirm("Are you sure?")
 }
+
+const e = ()=>{
+    alert("e");
+}
