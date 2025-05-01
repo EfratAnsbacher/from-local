@@ -1,3 +1,4 @@
 this is the text from file2
 
 another line text
+
